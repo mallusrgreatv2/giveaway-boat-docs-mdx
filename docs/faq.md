@@ -1,6 +1,7 @@
 # Frequently Asked Questions
 
 - [How to get giveaway IDs / message IDs](#how-to-get-giveaway-ids--message-ids)
+- [Invite / Server join requirements](#invite--server-join-requirements)
 
 ## How to get giveaway IDs / message IDs
 
