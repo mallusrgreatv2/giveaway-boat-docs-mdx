@@ -1,6 +1,5 @@
 ---
-description: >-
-  Learn how to invite Giveaway Boat in your server
+sidebar_position: 1
 ---
 
 # Inviting the bot

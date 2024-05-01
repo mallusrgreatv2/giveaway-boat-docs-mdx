@@ -1,6 +1,5 @@
 ---
-description: >-
-  This page will walk you through how you can delete a giveaway with Giveaway Boat.
+sidebar_position: 4
 ---
 
 # Deleting A Giveaway

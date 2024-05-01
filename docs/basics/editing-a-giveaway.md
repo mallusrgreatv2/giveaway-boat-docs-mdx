@@ -1,6 +1,5 @@
 ---
-description: >-
-  This page will walk you through how you can edit a giveaway with Giveaway Boat.
+sidebar_position: 3
 ---
 
 # Editing A Giveaway

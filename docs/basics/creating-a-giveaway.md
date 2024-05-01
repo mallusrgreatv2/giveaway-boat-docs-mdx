@@ -1,6 +1,5 @@
 ---
-description: >-
-  This page will walk you through how you can create a giveaway with Giveaway Boat.
+sidebar_position: 2
 ---
 
 # Creating A Giveaway
