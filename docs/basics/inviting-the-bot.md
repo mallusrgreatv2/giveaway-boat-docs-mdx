@@ -7,7 +7,7 @@ sidebar_position: 1
 ## Requirements
 
 - You will need **Owner**, **Manage Server**, or **Administrator** permission in the server to continue.
-- Whitelist the bot using its ID (530082442967646230) in your anti-nuke bot if you have one. Anti-nuke / security bots include:
+- Whitelist the bot using its ID (530082442967646230) in your anti-nuke bot if you have one. Anti-nuke or security bots include:
   - Wick
   - Flantic
   - Security Bot
